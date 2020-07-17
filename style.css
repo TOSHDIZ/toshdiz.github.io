@@ -1,0 +1,19 @@
+.card{
+  
+}
+
+.card-header{
+  text-align: center;
+  background-color: lightpink;
+  padding: 20px;
+  width: 80%;
+  height: 20%;
+}
+
+.card-body{
+  text-align: center;
+  background-color: lightblue;
+  padding: 20px;
+  width: 80%;
+  height: 20%;
+}
