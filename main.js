@@ -1,3 +1,2 @@
-let name='Yaroslav';
-console.log(name + ' is the king');
-alert(name + ' is the king!');
+let greet='Hello world';
+console.log(greet);
